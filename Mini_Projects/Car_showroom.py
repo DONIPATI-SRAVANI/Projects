@@ -163,4 +163,3 @@ class showroom:
         
 sr=showroom()
 sr.choose()
-
